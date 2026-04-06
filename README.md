@@ -110,7 +110,6 @@ The chatbot allows users to:
 ---
 
 ## Project Structure
-
 bravo-pricing-risk-intelligence/
 │
 ├── scraping_bravo.ipynb
@@ -124,7 +123,8 @@ bravo-pricing-risk-intelligence/
 ├── competitive-price-position.jpg
 ├── market-pressure-and-risk-diagnosis.jpg
 ├── time-reaction.jpg
-├── AI-chatbot
+│
+├── AI-chatbot/
 
 ## How to Run
 
