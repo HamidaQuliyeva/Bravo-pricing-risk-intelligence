@@ -108,8 +108,9 @@ The chatbot allows users to:
 
 ### Time reaction
 ---
-
 ## Project Structure
+
+```
 bravo-pricing-risk-intelligence/
 │
 ├── scraping_bravo.ipynb
@@ -125,6 +126,7 @@ bravo-pricing-risk-intelligence/
 ├── time-reaction.jpg
 │
 ├── AI-chatbot/
+```
 
 ## How to Run
 
