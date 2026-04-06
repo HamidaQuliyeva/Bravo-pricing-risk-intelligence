@@ -128,28 +128,6 @@ bravo-pricing-risk-intelligence/
 ├── AI-chatbot/
 ```
 
-## How to Run
-
-How to Run
-Run the scraping notebooks:
-
-scraping_bravo.ipynb
-scraping_araz.ipynb
-scraping_bazarstore.ipynb
-Prepare or merge the scraped datasets
-
-Run:
-
-analysis_pricing_risk.ipynb
-Use the generated outputs in:
-
-sql_queries.sql
-Power BI dashboard layer
-
-Requirements
-Suggested Python libraries:
-
-Copypip install pandas numpy requests beautifulsoup4 jupyter
 
 ## Key Insights
 
